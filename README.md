@@ -7,36 +7,6 @@
 <img width="1246" height="886" alt="image" src="https://github.com/user-attachments/assets/2bed3a7b-523d-4a58-9839-5471fc8d83f4" />
 <img width="1253" height="887" alt="image" src="https://github.com/user-attachments/assets/ecf385c7-2b6d-455e-9cda-d54a58cf8c4b" />
 
-4.7更新：支持贴图号批量下载、保存文章划线、下载子评论图片、显示评论回复、关键词筛选功能；导出表格数据支持更全的数据；修复纯文字文章下载失败的问题
-
-欢迎关注公众号：长风的储物柜，获取最新更新消息🥳
-
-![微信公众号](https://github.com/user-attachments/assets/584c65c4-da1c-4e31-bd92-b18e3589483d)
-
-聊天群：https://t.me/changfengbox
-
-# 使用教程：
-1.打开想要下载的公众号里面的随便一篇文章，复制链接到软件中，点击获取公众号id
-![image](https://github.com/user-attachments/assets/9e8d05ea-0c23-4ac0-b337-c2e0958dbe8e)
-![image](https://github.com/user-attachments/assets/62faabee-9d93-4e0d-a4c7-5d045d47b791)
-
-
-2.在微信打开刚刚复制的链接（把自动复制好的链接，发到微信的文件传输助手，再点击打开），等待一会，软件会自动获取秘钥
-![image](https://github.com/user-attachments/assets/5120f2ba-1049-4381-9c48-81d89c88a7c2)
-
-3.然后就可以下载公众号的文章啦
-
-![image](https://github.com/user-attachments/assets/6c461c86-0cd6-4f5c-8c19-c6770e5e9cee)
-![image](https://github.com/qiye45/wechatDownload/assets/138199658/f5e95a6d-a22d-4bc0-980f-f0e91644145e)
-
-注意事项：需要用微信内置浏览器打开复制的链接
-
-![image](https://github.com/qiye45/wechatDownload/assets/138199658/bca604e8-d756-4971-aa6d-8b0c8cf88753)
-
-# 免责声明
-
-- **本软件提供的所有内容，仅可用作学习交流使用，禁止用于其他用途。请在下载24小时内删除。为尊重作者版权，请前往资源的原始发布网站观看，支持原创，谢谢。**
-
 
 # 更新日志：
 
